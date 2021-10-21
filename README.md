@@ -1,1 +1,1 @@
-# CSE1010
+# Please use this to learn and study from and do not copy and paste things because even if you only copy the code but write it yourself you may be able to understand what is going on just a little bit better. Hope this helps someone.
